@@ -1,4 +1,2 @@
 Hello zGuy
-Hrishikesh Hiremath
-Shaili 
-Python Challenge
+
